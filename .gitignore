@@ -5,8 +5,11 @@ sites/example.sites.php
 # Ignore paths that contain generated content.
 files/
 sites/*/files
+sites/*/public
 sites/*/private
 sites/*/translations
+sites/*/tmp
+sites/*/cache
 
 # Ignore default text files
 robots.txt
