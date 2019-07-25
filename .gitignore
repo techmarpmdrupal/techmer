@@ -10,6 +10,7 @@ sites/*/private
 sites/*/translations
 sites/*/tmp
 sites/*/cache
+sites/default/files/php/
 
 # Ignore default text files
 robots.txt
